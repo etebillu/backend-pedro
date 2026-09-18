@@ -19,7 +19,7 @@ O servidor sobe em `http://localhost:3000`.
 Guarda os treinos de uma pessoa. Cada treino tem um `nome` e uma `duracao` em minutos:
 
 ```json
-{ "id": 1, "nome": "Peito e triceps", "duracao": 60 }
+{ "id": 1, "nome": "Pedro e triceps", "duracao": 60 }
 ```
 
 ## As rotas (a especificação)
